@@ -1,0 +1,38 @@
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\PrimarySchoolManagentSystem.exe.config
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\PrimarySchoolManagentSystem.exe
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\PrimarySchoolManagentSystem.pdb
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.csprojResolveAssemblyReference.cache
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Login.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Properties.Resources.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.csproj.GenerateResource.Cache
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.exe
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.pdb
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Register.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Home.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.StaffManagement.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.StudentProfile.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.ResultHome.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.ResultInput.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.ResultShow.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.StudentHome.resources
+E:\3rd year ii term\SE project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.StudentInput.resources
+E:\Academic\3rd Year 2nd Term\CSE-3204 Software Engineering and Information System Project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\PrimarySchoolManagentSystem.exe.config
+E:\Academic\3rd Year 2nd Term\CSE-3204 Software Engineering and Information System Project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.exe
+E:\Academic\3rd Year 2nd Term\CSE-3204 Software Engineering and Information System Project\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.pdb
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\PrimarySchoolManagentSystem.exe.config
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.exe
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.pdb
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\PrimarySchoolManagentSystem.exe
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\PrimarySchoolManagentSystem.pdb
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.csprojResolveAssemblyReference.cache
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Home.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Login.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Properties.Resources.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.Register.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.ResultHome.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.ResultInput.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.ResultShow.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.StaffManagement.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.StudentProfile.resources
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\obj\Debug\PrimarySchoolManagentSystem.csproj.GenerateResource.Cache
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\PrimarySchoolManagentSystem\bin\Debug\MySql.Data.dll

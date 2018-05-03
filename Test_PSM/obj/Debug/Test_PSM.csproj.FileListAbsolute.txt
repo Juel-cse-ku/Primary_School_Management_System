@@ -1,0 +1,8 @@
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\obj\Debug\Test_PSM.csprojResolveAssemblyReference.cache
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\bin\Debug\Test_PSM.dll
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\bin\Debug\Test_PSM.pdb
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\bin\Debug\PrimarySchoolManagentSystem.exe
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\bin\Debug\MySql.Data.dll
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\bin\Debug\PrimarySchoolManagentSystem.pdb
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\obj\Debug\Test_PSM.dll
+E:\study\study\books\3rd Year 2nd Term (3-2)\SE Lab\PrimarySchoolManagentSystem\Test_PSM\obj\Debug\Test_PSM.pdb

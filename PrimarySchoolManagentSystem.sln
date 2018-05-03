@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimarySchoolManagentSystem", "PrimarySchoolManagentSystem\PrimarySchoolManagentSystem.csproj", "{D2388B1F-DB49-4871-8CD5-28F92008CB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_PSM", "Test_PSM\Test_PSM.csproj", "{76BDB1B8-BA80-42A9-9D67-A3AD650AAD56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2388B1F-DB49-4871-8CD5-28F92008CB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2388B1F-DB49-4871-8CD5-28F92008CB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2388B1F-DB49-4871-8CD5-28F92008CB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2388B1F-DB49-4871-8CD5-28F92008CB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BDB1B8-BA80-42A9-9D67-A3AD650AAD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BDB1B8-BA80-42A9-9D67-A3AD650AAD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BDB1B8-BA80-42A9-9D67-A3AD650AAD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BDB1B8-BA80-42A9-9D67-A3AD650AAD56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
